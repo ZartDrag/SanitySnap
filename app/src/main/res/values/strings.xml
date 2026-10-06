@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SanitySnap</string>
+
+    <!-- Conflicts screen -->
+    <string name="conflicts_title">Conflicts</string>
+    <string name="conflicts_empty">No conflicts. Conflicts appear when the same item was edited differently on two devices before they synced.</string>
+    <string name="conflict_status_open">Needs your decision</string>
+    <string name="conflict_status_resolved">Resolved</string>
+    <string name="conflict_badge">Conflict</string>
+    <string name="conflict_changed_on">Changed on %1$s</string>
+    <string name="conflict_no_changes">No changes on this side</string>
+    <string name="conflict_deleted_item">Deleted the %1$s</string>
+    <string name="conflict_unchanged_details">Unchanged details (%1$d)</string>
+    <string name="conflict_keep_mine">Keep mine</string>
+    <string name="conflict_keep_theirs">Keep theirs</string>
+    <string name="conflict_choice_note">Your choice is recorded as a signed merge event and syncs to everyone.</string>
+    <string name="conflict_resolved_with">Resolved with a signed merge event %1$s.</string>
+    <string name="conflict_not_included">not included</string>
+    <string name="conflict_removed">removed</string>
+</resources>

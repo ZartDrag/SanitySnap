@@ -1,0 +1,12 @@
+.gradle/
+build/
+/local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+*.apk
+*.jks
+*.keystore
+emulator-smoke.png
+.DS_Store
